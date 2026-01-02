@@ -1,0 +1,23 @@
+<!doctypehtml>
+<html>
+<head>
+<title>Nested List</tilte></head>
+<body>
+<center><font size="7" color="Lime" face="Impact">Nested List</font></center>
+<ul type="Sqaure">
+<li>Friuts
+<ul>
+  <li> Apple </li>
+  <li>Mango</li>
+</ul>
+</li>
+<li>
+   <ol type="A">Vegetables
+      <li>Tomato</li>
+      <li>Onion</li>
+      <li>Potato</li>
+    </ol>
+</li>
+</ul>
+</body>
+</html>
